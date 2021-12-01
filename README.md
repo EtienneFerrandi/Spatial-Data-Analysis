@@ -1,4 +1,4 @@
-# Spatial-Data-Analysis
+# Spatial Data Analysis
 
 This work for Laterice aims at localizing GPS coordinates of the coffee production areas on a map of Ethiopia. 
 
